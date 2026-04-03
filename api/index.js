@@ -1,7 +1,7 @@
 // SkillPay Billing Integration
 const BILLING_URL = 'https://skillpay.me/api/v1/billing';
 const API_KEY = process.env.SKILLPAY_API_KEY;
-let SKILL_ID = 'password-generator-001'; // Will be updated after registration
+let SKILL_ID = '06e166ee-1aa8-4fe3-b066-54e972efc89d';
 const PRICE_PER_CALL = 0.02;
 
 // Charge user
