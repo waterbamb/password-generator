@@ -1,0 +1,6 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "Secure Password Generator API - Generate strong, customizable passwords",
+  "main": "api/index.js"
+}
